@@ -1,0 +1,48 @@
+﻿<Window x:Class="приложение_библиотека.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:приложение_библиотека"
+        mc:Ignorable="d"
+        Title="Дополнительная литература" Height="450" Width="377">
+    <Grid>
+        <TreeView HorizontalAlignment="Center" Height="434" VerticalAlignment="Center" Width="378">
+            <TreeViewItem Header="Открытая наука" FontSize="16">
+                <TreeViewItem Header="Экономика и управление" IsExpanded="True">
+                    <TreeViewItem Header="Экономика"/>
+                </TreeViewItem>
+                <TreeViewItem Header="Естественные науки" IsExpanded="True">
+                    <TreeViewItem Header="Физика"/>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Памятники литературы" FontSize="16">
+                <TreeViewItem Header="Гуманитарные и общественные науки" IsExpanded="True">
+                    <TreeViewItem Header="История"/>
+                </TreeViewItem>
+                <TreeViewItem Header="Художественная литература" IsExpanded="True">
+                    <TreeViewItem Header="Фольклор"/>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Читаем в оригинале" FontSize="16">
+                <TreeViewItem Header="Языки,лингвистика и литературоведение" IsExpanded="True">
+                    <TreeViewItem Header="Английский язык"/>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Консультация юриста" FontSize="16">
+                <TreeViewItem Header="Право.Юриспруденция" IsExpanded="True">
+                    <TreeViewItem Header="Муниципальное право"/>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Актуальные монографии" FontSize="16" IsExpanded="True">
+                <TreeViewItem Header="Естественные науки">
+                    <TreeViewItem Header="География"/>
+                </TreeViewItem>
+                <TreeViewItem Header="Прикладные науки.Техника" IsExpanded="True">
+                    <TreeViewItem Header="Архитектура"/>
+                </TreeViewItem>
+            </TreeViewItem>
+        </TreeView>
+
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="приложение_библиотека.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:приложение_библиотека"
+        mc:Ignorable="d"
+        Title="Каталог" Height="506" Width="425">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" Height="33" Margin="0,10,0,0" TextWrapping="Wrap" Text="Поиск по каталогу" VerticalAlignment="Top" Width="316" FontSize="16" TextChanged="TextBox_TextChanged"/>
+        <Button Content="Учебники для вузов" Background="Orange" HorizontalAlignment="Center" Height="42" Margin="0,144,0,0" VerticalAlignment="Top" Width="266" FontSize="16" Click="Button_Click_1"/>
+        <Button Content="Учебники СПО" Background="Orange" HorizontalAlignment="Center" Height="41" Margin="0,213,0,0" VerticalAlignment="Top" Width="266" FontSize="16" Click="Button_Click_2"/>
+        <Button Content="Дополнительная литература" Background="Orange" HorizontalAlignment="Center" Height="41" Margin="0,284,0,0" VerticalAlignment="Top" Width="266" FontSize="16" Click="Button_Click_3"/>
+        <Button HorizontalAlignment="Left"  Height="37" Margin="38,414,0,0" VerticalAlignment="Top" Width="66" Click="Button_Click">
+            <Image Height="37" Source="/1639410253_7-abrakadabra-fun-p-chelovechki-na-avu-7.png" Stretch="Fill" Width="66"/>
+        </Button>
+        <Label Content="Профиль" HorizontalAlignment="Left" Height="28" Margin="40,386,0,0" VerticalAlignment="Top" Width="62"/>
+        <Button HorizontalAlignment="Left" Height="37" Margin="304,414,0,0" VerticalAlignment="Top" Width="63" Click="Button_Click_4">
+            <Image Height="37" Source="/177104-vector-gears-hd-image-free.png" Stretch="Fill" Width="63"/>
+
+
+        </Button>
+        <Label Content="Настройки" HorizontalAlignment="Left" Height="28" Margin="297,386,0,0" VerticalAlignment="Top" Width="70"/>
+
+    </Grid>
+</Window>

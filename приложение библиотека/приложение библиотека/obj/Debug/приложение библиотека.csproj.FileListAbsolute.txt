@@ -1,0 +1,30 @@
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\bin\Debug\приложение библиотека.exe.config
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\bin\Debug\приложение библиотека.exe
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\bin\Debug\приложение библиотека.pdb
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека.csproj.AssemblyReference.cache
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека.csproj.SuggestedBindingRedirects.cache
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\MainWindow.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\App.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека_MarkupCompile.cache
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека_MarkupCompile.lref
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\MainWindow.baml
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека.g.resources
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение_библиотека.Properties.Resources.resources
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека.csproj.GenerateResource.cache
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека.csproj.CoreCompileInputs.cache
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека.exe
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\приложение библиотека.pdb
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window1.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window1.baml
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window2.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window3.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window2.baml
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window3.baml
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window4.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window4.baml
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window5.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window5.baml
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window6.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window6.baml
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window7.g.cs
+C:\Users\juli-\source\repos\приложение библиотека\приложение библиотека\obj\Debug\Window7.baml

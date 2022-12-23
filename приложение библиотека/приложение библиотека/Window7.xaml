@@ -1,0 +1,28 @@
+﻿<Window x:Class="приложение_библиотека.Window7"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:приложение_библиотека"
+        mc:Ignorable="d"
+        Title="Настройки" Height="476" Width="800">
+    <Grid>
+        <Button Content="Отмена" Background="Orange" HorizontalAlignment="Left" Height="40" Margin="677,384,0,0" VerticalAlignment="Top" Width="97" FontSize="16" Click="Button_Click_1"/>
+        <Button Content="Ок" Background="Orange" HorizontalAlignment="Left" Height="40" Margin="579,384,0,0" VerticalAlignment="Top" Width="93" FontSize="16" Click="Button_Click"/>
+        <TreeView HorizontalAlignment="Left" Height="434" VerticalAlignment="Center" Width="235">
+            <TreeViewItem Header="Аккаунт" FontSize="16"/>
+            <TreeViewItem Header="Семья" FontSize="16"/>
+            <TreeViewItem Header="Интерфейс" FontSize="16"/>
+            <TreeViewItem Header="Загрузки" FontSize="16"/>
+            <TreeViewItem Header="Кэш драйвер" FontSize="16"/>
+        </TreeView>
+        <Label Content="Имя аккаунта" HorizontalAlignment="Left" Height="30" Margin="280,70,0,0" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <Label Content="Адрес эл.почты" HorizontalAlignment="Left" Height="30" Margin="280,105,0,0" VerticalAlignment="Top" Width="135" FontSize="16"/>
+        <Label Content="Статус безопастности" HorizontalAlignment="Left" Height="30" Margin="280,140,0,0" VerticalAlignment="Top" Width="175" FontSize="16"/>
+        <Label Content="Под защитой" HorizontalAlignment="Left" Height="34" Margin="481,140,0,0" VerticalAlignment="Top" Width="109" FontSize="16"/>
+        <Button Content="Управление настройками" Background="Orange" HorizontalAlignment="Left" Height="36" Margin="280,192,0,0" VerticalAlignment="Top" Width="494" FontSize="16"/>
+        <Button Content="Изменить пароль" Background="Orange" HorizontalAlignment="Left" Height="36" Margin="280,253,0,0" VerticalAlignment="Top" Width="494" FontSize="16"/>
+        <Button Content="Изменить контакты, адрес эл.почты" Background="Orange" HorizontalAlignment="Left" Height="36" Margin="280,315,0,0" VerticalAlignment="Top" Width="494" FontSize="16"/>
+
+    </Grid>
+</Window>

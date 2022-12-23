@@ -1,0 +1,39 @@
+﻿<Window x:Class="приложение_библиотека.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:приложение_библиотека"
+        mc:Ignorable="d"
+        Title="Учебники СПО" Height="450" Width="385">
+    <Grid>
+        <TreeView HorizontalAlignment="Center" Height="434" VerticalAlignment="Center" Width="385">
+            <TreeViewItem Header="Право.Юриспруденция" FontSize="16">
+                <TreeViewItem Header="Административное право"/>
+                <TreeViewItem Header="Договорное право"/>
+                <TreeViewItem Header="Жилищное право"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Сельское хозяйство и природопользование" FontSize="16">
+                <TreeViewItem Header="Лесное дело"/>
+                <TreeViewItem Header="Природопользование"/>
+                <TreeViewItem Header="Сельское хозяйство"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Компьютеры.Интернет.Информатика" FontSize="16">
+                <TreeViewItem Header="Базы данных"/>
+                <TreeViewItem Header="Информатика"/>
+                <TreeViewItem Header="интернет и сети"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Гуманитарные и общественные науки" FontSize="16">
+                <TreeViewItem Header="Дизайн"/>
+                <TreeViewItem Header="Антропология"/>
+                <TreeViewItem Header="История России"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Здравоохранения медицина" FontSize="16" IsExpanded="True">
+                <TreeViewItem Header="Здравоохранение"/>
+                <TreeViewItem Header="Стоматология"/>
+                <TreeViewItem Header="Лечебное дело"/>
+            </TreeViewItem>
+        </TreeView>
+
+    </Grid>
+</Window>
